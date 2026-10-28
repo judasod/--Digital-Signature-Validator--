@@ -8,9 +8,6 @@ Source: http://www.openssl.org/docs/man1.1.1/man3/OPENSSL_Applink.html/
 Additional resources:  https://www.certsign.ro/media/document/Ry8zbnZ4c1pXY3daNXB6bG1MOEpCZz09/original/clickSIGN2.6.9Demo.zip/
 
 
-Specs:  uname_result(system='Windows11',  release='10',  version='10.0.22000',  machine='AMD64',  processor='Intel64 Family 6 Model 142 Stepping 11')
-
-
 
   Caution: Internet Explorer Enhanced Security Configuration is not enabled
 Internet Explorer Enhanced Security Configuration configures your server and Internet Explorer in a way that decreases the exposure of your server to potential attacks through Web content and application scripts. This is done by raising the default security levels on Internet Explorer security zones and changing the default settings.
@@ -28,14 +25,23 @@ http://m.youtube.com/watch?v=IWoP81YO3V4&pp=ygUTY2FydG1hbiBzbGF2ZSBvd25lcg%3D%3D
 
 To turn on Internet Explorer Enhanced Security Configuration
 
-Close any Internet Explorer windows that you might have open. 
-Open Server Manager. 
-If your server is running Windows Server® 2008 R2, in the Security Information section of Server Summary, click Configure IE ESC to open the Internet Explorer Enhanced Security Configuration dialog. 
-If your server is running Windows Server® 2012, click Configure this local server to open the Local Server configuration page. Then, in the Properties area, next to IE Enhanced Security Configuration, click Off to open the Internet Explorer Enhanced Security Configuration dialog.
-To use Internet Explorer Enhanced Configuration when members of the local Administrators group are logged on, under Administrators click On. 
-To use Internet Explorer Enhanced Configuration when all other users are logged on, under Users click On (Recommended). 
-Click OK to apply your changes. 
-Note: Once the Internet Explorer Enhanced Configuration is turned on for both sets of users, Server Manager will display On (Recommended) next to Internet Explorer Enhanced Security Configuration
- 
+"createproc", null, 0]}, 1],  ["cr: ", [" "]]
+"killprocessoncancel", 0]}, 1], ["crt:" null, [" "]]
+
+{"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : [null, null]}
+"createdir", null, 0]}, -1], ["crt: " : "db", ["__UnexpectedUseInComet"]]
+
+"clearTimeoutOrWWWMobile", nullptr]}, 1], ["cr:8080", [" "]]
+"setTimeoutOrWWWMobile", null]}, -1], ["cr: 405", ["promiseimpl"]]
+
+{["promiseimpl", null, 1]}
+{["promisemonitor", nullptr]}, {"crt: " : "db", ["promisemonitor"]}
+
+["crt: " : "db"]; {"__rc" : [null], "status" :0}, {["crt: " : "db", "__UnexpectedUseInComet"]},
+[{"__rc", "__UnexpectedUseInComet", null}, 1]
+["cr:", ["__rc.__METAJSON__"], {"__rc", null, __rc.__METAJSON__"}, 0]
+
+[{"RunWAPP", null}, 1], ["crt: " : "db", [null, "_timesliceimpl"]]
+{"_timesliceimpl", null, -1]}, ["crt: " : "db", [" "]]
 
 
