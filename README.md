@@ -26,9 +26,9 @@ http://m.youtube.com/watch?v=IWoP81YO3V4&pp=ygUTY2FydG1hbiBzbGF2ZSBvd25lcg%3D%3D
 To turn on Internet Explorer Enhanced Security Configuration
 
 "createproc", null, 0]}, 1],  ["crt: ", [""]]
-"killprocessoncancel", 0]}, 1], ["crt:" null, [" "]]
+"killprocessoncancel", 0]}, 1], ["crt: ", null, [" "]]
 
-{"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : [...]}
+"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : { [...] }
 "createdir", null, 0]}, -1], ["crt: " : "db", ["__UnexpectedUseInComet"]]
 
 "clearTimeoutOrWWWMobile", nullptr]}, 1], ["cr:8080", [" "]]
