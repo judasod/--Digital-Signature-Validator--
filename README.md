@@ -25,23 +25,23 @@ http://m.youtube.com/watch?v=IWoP81YO3V4&pp=ygUTY2FydG1hbiBzbGF2ZSBvd25lcg%3D%3D
 
 To turn on Internet Explorer Enhanced Security Configuration
 
-"createproc", null, 0]}, 1],  ["crt: ", [""]]
-"killprocessoncancel", 0]}, 1], ["crt: ", null, [" "]]
+"createProc", null, 0]}, 1],  ["crt: ", [""]]
+"killProcOnCancel", 0]}, 1], ["crt: ", null, [" "]]
 
-"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : { [...] }
-"createdir", null, 0]}, -1], ["crt: " : "db", ["_UnexpectedUseInComet"]]
+"crt: " : "DB", ["__rc.TXT" : "[ * ]", {["createProc", null, -1]}, 1], "crt: " : { [...] }
+"createDir", null, 0]}, -1], ["crt: " : "DB", ["_UnexpectedUseInComet"]]
 
 "clearTimeoutOrWWWMobile", nullptr]}, 1], ["cr:8080", [" "]]
 "setTimeoutOrWWWMobile", null]}, -1], ["cr: 403", ["promiseimpl"]]
 
 {["promiseimpl", null, 1]}
-{["promisemonitor", nullptr]}, {"crt: " : "db", ["promisemonitor"]}
+{["promisemonitor", nullptr]}, {"crt: " : "DB", ["promisemonitor"]}
 
-["crt: " : "db"]; {"__rc" : [null], "status" :0}, {["crt: " : "db", "_UnexpectedUseInComet"]},
+["crt: " : "DB"]; {"__rc" : [null], "status" :0}, {["crt: " : "DB", "_UnexpectedUseInComet"]},
 [{"__rc", "_UnexpectedUseInComet", null}, 1]
 ["cr:", ["__rc.__METAJSON__"], {"__rc", null, __rc.__METAJSON__"}, 0]
 
-[{"_runWapp", null}, 1], ["crt: " : "db", [null, "_timesliceimpl"]]
-{"_timesliceimpl", null, -1]}, ["crt: " : "db", [null, null]]
+[{"_runWapp", null}, 1], ["crt: " : "DB", [null, "_timesliceimpl"]]
+{"_timesliceimpl", null, -1]}, ["crt: " : "[...]", [null, null]]
 
 
