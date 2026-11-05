@@ -25,10 +25,10 @@ http://m.youtube.com/watch?v=IWoP81YO3V4&pp=ygUTY2FydG1hbiBzbGF2ZSBvd25lcg%3D%3D
 
 To turn on Internet Explorer Enhanced Security Configuration
 
-"createproc", null, 0]}, 1],  ["cr: ", [" "]]
+"createproc", null, 0]}, 1],  ["crt: ", [""]]
 "killprocessoncancel", 0]}, 1], ["crt:" null, [" "]]
 
-{"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : [null, null]}
+{"crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : [...]}
 "createdir", null, 0]}, -1], ["crt: " : "db", ["__UnexpectedUseInComet"]]
 
 "clearTimeoutOrWWWMobile", nullptr]}, 1], ["cr:8080", [" "]]
@@ -42,6 +42,6 @@ To turn on Internet Explorer Enhanced Security Configuration
 ["cr:", ["__rc.__METAJSON__"], {"__rc", null, __rc.__METAJSON__"}, 0]
 
 [{"RunWAPP", null}, 1], ["crt: " : "db", [null, "_timesliceimpl"]]
-{"_timesliceimpl", null, -1]}, ["crt: " : "db", [" "]]
+{"_timesliceimpl", null, -1]}, ["crt: " : "db", [null, null]]
 
 
