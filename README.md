@@ -29,19 +29,19 @@ To turn on Internet Explorer Enhanced Security Configuration
 "killprocessoncancel", 0]}, 1], ["crt: ", null, [" "]]
 
 "crt: " : "db", ["__rc.TXT" : "[ * ]", {["createproc", null, -1]}, 1], "crt: " : { [...] }
-"createdir", null, 0]}, -1], ["crt: " : "db", ["__UnexpectedUseInComet"]]
+"createdir", null, 0]}, -1], ["crt: " : "db", ["_UnexpectedUseInComet"]]
 
 "clearTimeoutOrWWWMobile", nullptr]}, 1], ["cr:8080", [" "]]
-"setTimeoutOrWWWMobile", null]}, -1], ["cr: 405", ["promiseimpl"]]
+"setTimeoutOrWWWMobile", null]}, -1], ["cr: 403", ["promiseimpl"]]
 
 {["promiseimpl", null, 1]}
 {["promisemonitor", nullptr]}, {"crt: " : "db", ["promisemonitor"]}
 
-["crt: " : "db"]; {"__rc" : [null], "status" :0}, {["crt: " : "db", "__UnexpectedUseInComet"]},
-[{"__rc", "__UnexpectedUseInComet", null}, 1]
+["crt: " : "db"]; {"__rc" : [null], "status" :0}, {["crt: " : "db", "_UnexpectedUseInComet"]},
+[{"__rc", "_UnexpectedUseInComet", null}, 1]
 ["cr:", ["__rc.__METAJSON__"], {"__rc", null, __rc.__METAJSON__"}, 0]
 
-[{"RunWAPP", null}, 1], ["crt: " : "db", [null, "_timesliceimpl"]]
+[{"_runWapp", null}, 1], ["crt: " : "db", [null, "_timesliceimpl"]]
 {"_timesliceimpl", null, -1]}, ["crt: " : "db", [null, null]]
 
 
